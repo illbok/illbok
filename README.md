@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IllB
+- 👋 Hi, I’m @Ill_B
 - 👀 I’m interested in Game making
 - 🌱 I’m currently learning c & c++ & python
 - 💞️ I’m looking to collaborate on making games
